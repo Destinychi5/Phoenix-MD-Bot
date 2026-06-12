@@ -1,12 +1,12 @@
 {
-    "name": "Phoenix-MD",
+    "name": "DEstiny-Bug-Bot",
     "version": "1.0.0",
-    "description": "A Simple But Advanced WhatsApp Bot!",
+    "description": "A Simple But Advanced WhatsApp Bug Bot!",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "start": "pm2 start index.js --attach --name Phoenix-MD",
-        "stop": "pm2 stop Phoenix-MD"
+        "start": "pm2 start index.js --attach --name Destiny-Bug-Bot",
+        "stop": "pm2 stop Destiny-Bug-Bot"
     },
     "engines": {
         "node": "20.x"
@@ -32,11 +32,11 @@
         "AbhishekSuresh2",
         "commonjs"
     ],
-    "author": "Abhishek Suresh",
+    "author": "Richard Destiny",
     "license": "Apache License 2.0",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AbhishekSuresh2/Phoenix-MD-Bot.git"
+        "url": "git+https://github.com/Destinychi5/Phoenix-MD-Bot.git"
     },
     "dependencies": {
         "@whiskeysockets/baileys": "npm:baileys@latest",
