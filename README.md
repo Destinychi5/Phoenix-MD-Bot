@@ -7,9 +7,7 @@
 > Unauthorized distribution, re-branding, or removal of the original "Coded By" tags is a violation of the license. **Legal action, including DMCA takedowns and permanent repository strikes, will be initiated against anyone found stealing this code or claiming it as their own.**
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Phoenix-MD;Multi+Device+WhatsApp+Bug+Bot;Coded+By+Richard+Destiny" alt="Typing SVG" />
-  </a>
+
 </div>
   
 <p align="center">  
