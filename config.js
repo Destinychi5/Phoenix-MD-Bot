@@ -16,14 +16,14 @@ module.exports = {
  // ℹ️ Removed commands like welcome,goodbye etc and other commands and features that cause whatsapp account/group ban thank you!
 //____________________________________________________________________________________________________________________________________________  
   //🤖 BOT CONFIGURATION
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'Phoenix~OmegaBoulder',
   STICKER_DATA: process.env.STICKER_DATA || '🎯Destiny-Bug-Bot;Richard Destiny🍀',
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ sender, ɪ ᴍ *Destiny Bug Bot* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://ibb.co/DHw9DccV',
   AUDIO_DATA: process.env.AUDIO_DATA || 'Destiny Bug Bot;Richard Destiny;https://ibb.co/DHw9DccV',
   BOT_INFO: process.env.BOT_INFO || 'Destiny Bug bot;Richard Destiny;919074692450;https://ibb.co/DHw9DccV', 
   PREFIX: process.env.PREFIX || '😒', //Type false to use without prerix
   MODE: process.env.MODE || 'private', //Type public to change bot mode to public
-  SUDO: process.env.SUDO || '919074692450, 918157993101',
+  SUDO: process.env.SUDO || '2349126576723',
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || '',
   TIMEZONE: process.env.TIMEZONE || "Asia/Kolkata",
   BOT_LANG: process.env.BOT_LANG || 'EN',
