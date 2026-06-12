@@ -81,7 +81,7 @@ Need help or want to stay updated with the latest features? Join our community!
 
 | Type | Link |
 | :--- | :--- |
-| **🛠️ Updates Channel** | <a href="https://whatsapp.com/channel/0029Vb8CQlzAlnPgR1oEmK3K"><img src="https://img.shields.io/badge/Phoenix--MD_Updates-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
+| **🛠️ Updates Channel** | <a href="https://whatsapp.com/channel/0029Vb8CQlzAlnPgR1oEmK3K"><img src="https://ibb.co/DHw9DccV"></a> |
 | **💬 Support Group** | <a href=""><img src="https://img.shields.io/badge/Get_Help_Now-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
 | **📺 YouTube Channel** | <a href=""><img src="https://img.shields.io/badge/Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"></a> |
 
