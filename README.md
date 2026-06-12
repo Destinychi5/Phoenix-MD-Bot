@@ -2,7 +2,7 @@
 
 > [!CAUTION]
 > ### **LEGAL NOTICE & TERMS OF USE**
-> **You are strictly required to give full credits to the original developer (Abhishek Suresh) if you fork, use, or modify this code.**
+> **You are strictly required to give full credits to the original developer (Richard Destiny) if you fork, use, or modify this code.**
 > 
 > Unauthorized distribution, re-branding, or removal of the original "Coded By" tags is a violation of the license. **Legal action, including DMCA takedowns and permanent repository strikes, will be initiated against anyone found stealing this code or claiming it as their own.**
 
@@ -81,9 +81,9 @@ Need help or want to stay updated with the latest features? Join our community!
 
 | Type | Link |
 | :--- | :--- |
-| **🛠️ Updates Channel** | <a href="https://whatsapp.com/channel/0029VbCDZhIJkK75WSjZNy1Z"><img src="https://img.shields.io/badge/Phoenix--MD_Updates-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
-| **💬 Support Group** | <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img src="https://img.shields.io/badge/Get_Help_Now-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
-| **📺 YouTube Channel** | <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w"><img src="https://img.shields.io/badge/Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"></a> |
+| **🛠️ Updates Channel** | <a href="https://whatsapp.com/channel/0029Vb8CQlzAlnPgR1oEmK3K"><img src="https://img.shields.io/badge/Phoenix--MD_Updates-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
+| **💬 Support Group** | <a href=""><img src="https://img.shields.io/badge/Get_Help_Now-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a> |
+| **📺 YouTube Channel** | <a href=""><img src="https://img.shields.io/badge/Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=FF0000"></a> |
 
 <div align="center">
   <br>
