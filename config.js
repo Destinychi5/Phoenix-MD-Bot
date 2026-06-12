@@ -17,7 +17,7 @@ module.exports = {
 //____________________________________________________________________________________________________________________________________________  
   //🤖 BOT CONFIGURATION
   SESSION_ID: process.env.SESSION_ID || '',
-  STICKER_DATA: process.env.STICKER_DATA || '🎯ᴘʜᴏᴇɴɪx-ᴍᴅ;ᴀʙʜɪꜱʜᴇᴋ ꜱᴜʀᴇꜱʜ🍀',
+  STICKER_DATA: process.env.STICKER_DATA || '🎯Destiny-Bug-Bot;Richard Destiny🍀',
   ALIVE_DATA: process.env.ALIVE_DATA || '👋 ʜᴇʏ sender, ɪ ᴍ *Destiny Bug Bot* ᴀʟɪᴠᴇ ɴᴏᴡ!\n\n📌 ᴛʏᴘᴇ *menu* ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ.\n\n*ᴘʟᴀᴛꜰᴏʀᴍ:* &platform\n*ʀᴜɴᴛɪᴍᴇ:* &runtime;https://ibb.co/DHw9DccV',
   AUDIO_DATA: process.env.AUDIO_DATA || 'Destiny Bug Bot;Richard Destiny;https://ibb.co/DHw9DccV',
   BOT_INFO: process.env.BOT_INFO || 'Destiny Bug bot;Richard Destiny;919074692450;https://ibb.co/DHw9DccV', 
